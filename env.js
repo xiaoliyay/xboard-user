@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'http://www.wyun.im/'
+window.routerBase = 'https://www.wyun.im/'
 window.settings = {
   // 站点名称
   title: 'Lingspeed',
